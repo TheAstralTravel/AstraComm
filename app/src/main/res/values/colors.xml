@@ -1,0 +1,4 @@
+<resources>
+    <color name="terminal_green">#FF00FF00</color>
+    <color name="terminal_black">#FF000000</color>
+</resources>
